@@ -1,0 +1,19 @@
+@media screen and (max-width: 1920px){
+    
+    .banner{
+        height: 12px;
+    }
+    .nav{
+        height: 3%;
+    }
+    .navLink{
+        padding-right: 10%;
+        padding: 0.5%;
+    }
+    .imgSkill{
+        width: 15%;
+    }
+    .title{
+        height: 8%;
+    }
+}
